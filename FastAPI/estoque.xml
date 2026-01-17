@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<estoque><aparelho><id>0</id><nome>galaxy pocket</nome>
+<marca>samsung</marca><preco>1000.0</preco><categoria>celular</categoria>
+<deposito>algo</deposito></aparelho></estoque>
